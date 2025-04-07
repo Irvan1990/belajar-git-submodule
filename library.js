@@ -1,7 +1,7 @@
-function sayHello (name) {
+function sayHello(name) {
     return "Hello " + name;
 }
 
-funcction sayGeuest{
+function sayGuest(){
     return "Hello;"
 }
